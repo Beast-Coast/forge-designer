@@ -1,0 +1,11 @@
+﻿<Solution>
+  <Project Path="ForgeDesigner.Android/ForgeDesigner.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="ForgeDesigner.Browser/ForgeDesigner.Browser.csproj" />
+  <Project Path="ForgeDesigner.Desktop/ForgeDesigner.Desktop.csproj" />
+  <Project Path="ForgeDesigner.iOS/ForgeDesigner.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="ForgeDesigner/ForgeDesigner.csproj" />
+</Solution>
